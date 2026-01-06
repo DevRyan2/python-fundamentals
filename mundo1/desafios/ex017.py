@@ -1,10 +1,10 @@
 import math
 
-cateto_oposto = float(input('Digite o tamanho do cateto oposto: '))
+cateto_oposto = float(input('Comprimento do cateto oposto: '))
 
-cateto_adjacente = float(input('Digite o tamanho do cateto adjacente: '))
+cateto_adjacente = float(input('Comprimento do cateto adjacente: '))
 
 hipotenusa = math.hypot(cateto_oposto, cateto_adjacente)
 
-print(f'O comprimento da hipotenusa é: {hipotenusa:.2f}')
+print(f'A hipotenusa  vai medir {hipotenusa:.2f}')
 
