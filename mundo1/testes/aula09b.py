@@ -19,7 +19,7 @@ print(frase[15:])  # Da posição 15 até o fim → 'Python'
 
 print(frase[9::3])  # Do 9 até o fim, pulando de 3 em 3 → 'VePh'
 
-print(frase[::2])  # Tudo, pulando de 2 em 2 → 'CrosmVdoPto'
+print(frase[::2])  # Tudo, pulando de 2 em 2 → 'Croe íe yhn'
 
 
 # ==================== ANÁLISE ====================
